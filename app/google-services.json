@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506704745234",
+    "project_id": "prjrestaurante-b5ec9",
+    "storage_bucket": "prjrestaurante-b5ec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506704745234:android:2351afbe40abf64b1e59cb",
+        "android_client_info": {
+          "package_name": "com.example.restaurante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506704745234-p22aigvhl1fokdeb0vt7q4e7lrkdff9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQmhRCLfKHbjSflkk4-ThzPNSgLUYChe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506704745234-p22aigvhl1fokdeb0vt7q4e7lrkdff9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
